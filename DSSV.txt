@@ -1,0 +1,6 @@
+              Ho Ten   GT Tuoi        DT        DL        DH       DTB
+      tong thit thuy   nu   19 10.0000001010.000000 10.000000343.333344
+              Ho Ten   GT Tuoi        DT        DL        DH       DTB
+     Truong Hoang Ha  nam   19 10.000000 10.000000 10.000000 10.000000
+              Ho Ten   GT Tuoi        DT        DL        DH       DTB
+       Tong Thi Thuy   nu   19 10.000000 10.000000 10.000000 10.000000
